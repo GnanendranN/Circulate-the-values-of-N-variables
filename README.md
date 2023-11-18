@@ -27,7 +27,7 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-![circulatevalues](https://github.com/GnanendranN/Circulate-the-values-of-N-variables/assets/138955207/b6a82422-5f6f-4df4-9933-c13f3153600c)
+![output](/circulate.png)
 
 ## Result:
 Thus the circulating n variables using function concept is successfully executed
